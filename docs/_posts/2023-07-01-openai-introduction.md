@@ -48,7 +48,7 @@ categories: openai introduction
 > |         [GPT-3](https://zh.wikipedia.org/wiki/GPT-3)         |  1750亿  | 一个总大小为570 GB的大规模文本语料库，其中包含约四千亿个标记。这些数据主要来自于CommonCrawl、WebText、英文维基百科和两个书籍语料库（Books1和Books2）。 |
 > |         [GPT-4](https://zh.wikipedia.org/wiki/GPT-4)         |    ~     |                              ~                               |
 >
-> ​	-- https://zh.wikipedia.org/wiki/%E5%9F%BA%E4%BA%8E%E8%BD%AC%E6%8D%A2%E5%99%A8%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8F%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B
+> ​	--  https://zh.wikipedia.org/wiki/GPT
 
 ### Embeddings
 
