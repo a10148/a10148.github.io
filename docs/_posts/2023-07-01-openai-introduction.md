@@ -15,7 +15,7 @@ categories: openai introduction
 
 #### 什么是GPT
 
-> **基于转换器的生成式预训练模型**[[1\]](https://zh.wikipedia.org/wiki/基于转换器的生成式预训练模型#cite_note-:0-1)（Generative pre-trained transformers; GPT）是[OpenAI](https://zh.wikipedia.org/wiki/OpenAI)开发的一系列延伸自[Transformer模型](https://zh.wikipedia.org/wiki/Transformer模型)的[自然语言生成](https://zh.wikipedia.org/wiki/自然语言生成)（NLG）模型。它可以进行[超参数](https://zh.wikipedia.org/wiki/超参数_(机器学习))微调以完成各种[自然语言处理](https://zh.wikipedia.org/wiki/自然语言处理)任务，例如文本生成、代码生成、视频生成、文本问答、图像生成、论文写作、影视创作、科学实验设计等。基于大量语料数据上训练，以生成类似于人类自然语言的文本。其名称中的“预训练”指的是在大型文本语料库上进行的初始训练过程，其中模型学习预测文章中下一个单词，这为模型在具有限量的任务特定数据的下游任务中表现良好提供了坚实的基础。 	-- https://zh.wikipedia.org/wiki/%E5%9F%BA%E4%BA%8E%E8%BD%AC%E6%8D%A2%E5%99%A8%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8F%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B
+> **基于转换器的生成式预训练模型**[[1\]](https://zh.wikipedia.org/wiki/基于转换器的生成式预训练模型#cite_note-:0-1)（Generative pre-trained transformers; GPT）是[OpenAI](https://zh.wikipedia.org/wiki/OpenAI)开发的一系列延伸自[Transformer模型](https://zh.wikipedia.org/wiki/Transformer模型)的[自然语言生成](https://zh.wikipedia.org/wiki/自然语言生成)（NLG）模型。它可以进行[超参数](https://zh.wikipedia.org/wiki/超参数_(机器学习))微调以完成各种[自然语言处理](https://zh.wikipedia.org/wiki/自然语言处理)任务，例如文本生成、代码生成、视频生成、文本问答、图像生成、论文写作、影视创作、科学实验设计等。基于大量语料数据上训练，以生成类似于人类自然语言的文本。其名称中的“预训练”指的是在大型文本语料库上进行的初始训练过程，其中模型学习预测文章中下一个单词，这为模型在具有限量的任务特定数据的下游任务中表现良好提供了坚实的基础。 	-- https://zh.wikipedia.org/wiki/GPT
 
 ​	按照Open AI的官方解释是: GPT模型经过训练可以理解自然语言和代码。 GPT 提供文本的输入给出相应的输出。提供的输入这里有个概念叫"prompts"。翻译过来是“提示”。
 
