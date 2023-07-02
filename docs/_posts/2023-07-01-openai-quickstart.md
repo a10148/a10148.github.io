@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "openai introduction"
+title:  "openai quickstart"
 date:   2023-07-01
-categories: openai qucikstart	
+categories: openai quickstart	
+typora-root-url: ../
 ---
 
 # Quickstart
@@ -24,4 +25,4 @@ categories: openai qucikstart
 
 ​	您可以将其视为非常高级的自动完成功能 - 该模型处理您的文本提示并尝试预测后续将出现的内容。
 
-![quick-start-1](/static/quick-start-1.png)
+![img](/assets/images/quick-start-1.png)
