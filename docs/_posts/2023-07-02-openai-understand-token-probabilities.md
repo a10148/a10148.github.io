@@ -23,3 +23,9 @@ typora-root-url: ../
 ​	![](/assets/images/quick-start-8.png)
 
 <center>图-8</center>
+
+​	在这种情况下，temperature参数起到重要作用。如果您使用温度设置为0重复提交这个提示4次，模型将始终选择具有最高概率的 "animal" 作为下一个标记。然而，如果您增加温度，模型将变得更加冒险，会考虑到概率较低的其他标记。
+
+![temperature](/assets/images/quick-start-9.png)
+
+<center>图-9</center>
