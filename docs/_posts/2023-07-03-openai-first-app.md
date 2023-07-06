@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "openai first app"
+title:  "first app"
 date:   2023-07-03
 categories: openai quickstart	
 typora-root-url: ../
