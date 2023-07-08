@@ -87,4 +87,4 @@ typora-root-url: ../
 
 
 
-扩展阅读 - 理解Token和概率
+扩展阅读 - [理解Token和概率] [2023-07-02-openai-understand-token-probabilities.md](2023-07-02-openai-understand-token-probabilities.md) ()
