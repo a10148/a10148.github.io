@@ -25,3 +25,56 @@ typora-root-url: ../../
 
 系统消息可以用来指定模型在回复中所使用的人物角色。
 
+![system/user](/assets/images/best-practices/1.png)
+
+在官网 [Playground](https://platform.openai.com/playground/p/default-playful-thank-you-note) 里是试一下
+
+### 技巧：使用分隔符清楚地标明输入的不同部分 
+
+如三引号、XML标签、章节标题等分隔符可以帮助划分需要以不同方式处理的文本部分。
+
+![2](/assets/images/best-practices/2.png)
+
+在官网 [ Playground ](https://platform.openai.com/playground/p/default-delimiters-1) 里是试一下
+
+![3](/assets/images/best-practices/3.png)
+
+在官网 [ Playground ](https://platform.openai.com/playground/p/default-delimiters-2)  里是试一下
+
+![4](/assets/images/best-practices/4.png)
+
+在官网 [ Playground ](https://platform.openai.com/playground/p/default-delimiters-3) 里是试一下
+
+​	对于这种直接的任务，使用分隔符可能不会改变输出质量。然而，任务越复杂，消除任务细节的歧义性就越重要。不要让GPT为理解你的具体要求而费力。
+
+### 技巧：明确指定完成任务所需的步骤 
+
+有些任务最好是以一系列步骤来指定。明确地写出步骤可以让模型更容易地遵循它们。
+
+![5](/assets/images/best-practices/5.png)
+
+在官网 [Playground ](https://platform.openai.com/playground/p/default-step-by-step-summarize-and-translate) 试一下
+
+### 技巧：提供示例 
+
+提供适用于所有示例的一般性指示通常比通过示例演示任务的所有排列更高效，但在某些情况下，提供示例可能更容易。例如，如果你希望模型复制一种特定的响应用户查询的方式，这种方式很难明确描述。这被称为“少示例”提示。
+
+![6](/assets/images/best-practices/6.png)
+
+在官网 [Playground ](https://platform.openai.com/playground/p/default-chat-few-shot) 试一下
+
+### 技巧：指定输出的期望长度 
+
+​	你可以要求模型产生给定目标长度的输出。目标输出长度可以按词数、句数、段落数、项目符号点数等来指定。但请注意，指示模型生成特定数量的词汇的精度并不高。模型更能可靠地生成具有特定数量段落或项目符号点的输出。
+
+![7](/assets/images/best-practices/7.png)
+
+在官网 [Playground ](https://platform.openai.com/playground/p/default-summarize-text-50-words) 试一下
+
+![8](/assets/images/best-practices/8.png)
+
+在官网 [Playground ](https://platform.openai.com/playground/p/default-summarize-text-2-paragraphs) 试一下
+
+![9](/assets/images/best-practices/9.png)
+
+在官网 [Playground ](https://platform.openai.com/playground/p/default-summarize-text-3-bullet-points) 试一下
