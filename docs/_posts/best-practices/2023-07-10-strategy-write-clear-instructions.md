@@ -2,7 +2,7 @@
 layout: post
 title:  "strategy: write clear instructions"
 date:   2023-07-10
-categories: openai best-practices write-clear-instructions
+categories: openai best-practices
 typora-root-url: ../../
 ---
 
