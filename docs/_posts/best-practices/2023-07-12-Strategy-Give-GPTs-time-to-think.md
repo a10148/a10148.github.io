@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "strategy: Split complex tasks into simpler subtasks"
+title:  "strategy: give GPTs time to think"
 date:   2023-07-12
 categories: openai best-practices
 typora-root-url: ../../
