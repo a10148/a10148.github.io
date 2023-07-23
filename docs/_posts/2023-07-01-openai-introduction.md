@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: default
 title:  "openai introduction"
 date:   2023-07-01
 categories: openai introduction
+order: 1
 ---
 
 # 一些概念

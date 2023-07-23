@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Completions and chatcompletions diffrents"
 date:   2023-07-09
 categories: openai completion

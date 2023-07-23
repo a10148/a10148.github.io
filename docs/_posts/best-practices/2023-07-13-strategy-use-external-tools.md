@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "strategy: Use external tools"
 date:   2023-07-13
 categories: openai best-practices

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "completions API"
 date:   2023-07-08
 categories: openai completions	

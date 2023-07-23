@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "strategy: provide reference"
 date:   2023-07-11
 categories: openai best-practices

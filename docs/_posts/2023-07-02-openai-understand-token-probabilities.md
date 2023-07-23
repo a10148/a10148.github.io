@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "understand tokens and probabilities"
 date:   2023-07-02
 categories: openai quickstart	

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "first app"
 date:   2023-07-03
 categories: openai quickstart	

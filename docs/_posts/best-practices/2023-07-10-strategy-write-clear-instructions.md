@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "strategy: write clear instructions"
 date:   2023-07-10
 categories: openai best-practices

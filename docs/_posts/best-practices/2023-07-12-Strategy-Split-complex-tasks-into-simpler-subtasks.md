@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "strategy: Split complex tasks into simpler subtasks"
 date:   2023-07-12
 categories: openai best-practices

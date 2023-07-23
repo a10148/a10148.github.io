@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "strategy: strategy test changes systematically"
 date:   2023-07-13
 categories: openai best-practices

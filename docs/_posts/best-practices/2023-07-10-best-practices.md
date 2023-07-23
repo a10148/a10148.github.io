@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "gpt best practices"
 date:   2023-07-10
 categories: openai best-practices
