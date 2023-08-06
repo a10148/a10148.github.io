@@ -12,12 +12,13 @@ github_username:  a10148
 
 markdown: kramdown
 
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 
 search_enabled: true
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

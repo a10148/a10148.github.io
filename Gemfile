@@ -14,11 +14,6 @@ gem "jekyll-github-metadata", ">= 2.13"
 gem "jekyll", "~> 3.9.2" # installed by `gem jekyll`
 # gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
 
-gem "just-the-docs", "0.5.4" # pinned to the current release
-# gem "just-the-docs"        # always download the latest release
-
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages","~> 228", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
